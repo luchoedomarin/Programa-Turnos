@@ -1,2 +1,2 @@
-# eys_Jornada
+# Control Turnos
 programacion de turnos
